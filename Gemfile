@@ -1,1 +1,5 @@
 source "https://rubygems.org"
+gem "rails", "~> 8.0"
+gem "pg", "~> 1.5"
+gem "sidekiq", "~> 7.3"
+gem "rspec-rails", "~> 7.1"
